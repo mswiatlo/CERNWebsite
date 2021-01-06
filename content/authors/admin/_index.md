@@ -27,14 +27,14 @@ interests:
 education:
   jobs: 
   - job: Associate Research Scientist (BAE)
-    institution: TRIUMF
-    year: 2019 - present
+    institution: Physical Sciences Division, TRIUMF
+    year: 2019- 
   - job: McCormick Fellow
     institution: Enrico Fermi Institute, University of Chicago
     year: 2015-2019
   courses:
   - course: PhD in Physics
-    institution: Stanford University, SLAC National Accelerator Laboratory
+    institution: SLAC National Accelerator Laboratory, Stanford University
     year: 2010-2015
   - course: AB in Physics
     institution: Harvard University
