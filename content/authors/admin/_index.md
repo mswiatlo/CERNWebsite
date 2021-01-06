@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Measuring the universe's vacuum energy potential
+- Searching for new physics at particle colliders
+- Reconstruction of hadronic final states at high-energy colliders
+- Deep learning methods to improve measurements and triggering at particle detectors
 
 # Education to show in About widget
 education:
@@ -77,8 +78,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a scientist at TRIUMF, Canada's Particle Accelerator Centre. I work on the ATLAS experiment at CERN, where my work focuses on the triggering and reconstruction of hadronic final states produced by collisions at the Large Hadron Collider. My work enables us to simplify and understand the hundreds of particles produced in these collisions, which we can the use to better understand the Standard Model and physics beyond. I'm particularly interested in using showers of particles called "b-jets" to understand the shape of the vacuum energy potential which creates the Higgs Boson, and to search for new particles that can solve some of the Standard Model's flaws. I'm also interested in novel and wide-ranging applications of deep learning, from triggering and reconstruction to new analysis techniques. In the past, I've also worked on searches for Milli-Charged particles at the LHC, and measurements of QCD using novel jet substructure techniques.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm always looking for new undergraduate and graduate students, postdocs, and collaborations, so please drop me a line if you'd like to work together! Open positions will depend on funding on the current project needs.
