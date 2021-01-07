@@ -82,7 +82,7 @@ item:
     cta_label: ATLAS-CONF-2018-041
     cta_url: 'https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2018-041/'
   - title: Soft-drop
-    content: 'Measuring calculable properties of QCD with jet substructure'
+    content: 'Measuring calculable properties of quantum chromodynamics with jet substructure'
     align: center
     overlay_color: '#333'
     overlay_img: 'sd.png'
