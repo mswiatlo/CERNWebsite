@@ -13,7 +13,7 @@ headless: true  # This file represents a page section.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: 10000
+interval: 15000
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
@@ -37,6 +37,10 @@ item:
 #     cta_url: 'https://example.org'
 #     cta_icon_pack: fas
 #     cta_icon: graduation-cap
+  - title: 'Projects, Past and Present'
+    content: 'Click through for a list of past and present projects I have contributed to'
+    overlay_color: = ''
+    overlay_img: 'projects2.png'
   - title: 'Deep Learning for Calorimeter Reconstruction'
     content: Improving pion and jet reconstruction with image recognition
     align: center
