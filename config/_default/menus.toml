@@ -15,18 +15,24 @@
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "#slider"
   weight = 30
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
+# [[main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 40
+
+# [[main]]
+#   name = "Publications"
+#   url = "#featured"
+#   weight = 50
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "CV"
+  url = "media/swiatlow_cv.pdf"
   weight = 50
+
 
 [[main]]
   name = "Contact"
