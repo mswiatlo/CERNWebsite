@@ -37,8 +37,8 @@ item:
 #     cta_url: 'https://example.org'
 #     cta_icon_pack: fas
 #     cta_icon: graduation-cap
-  - title: 'Projects, Past and Present'
-    content: 'Click through for a list of past and present projects I have contributed to'
+  - title: 'Projects, Present and Past'
+    content: 'A list of ongoing and previous projects I have contributed to'
     overlay_color: = ''
     overlay_img: 'projects2.png'
   - title: 'Deep Learning for Calorimeter Reconstruction'
@@ -78,7 +78,7 @@ item:
     align: center
     overlay_color: '#333'
     overlay_img: 'gluinos.png'
-    overlay_filter: 0.6
+    overlay_filter: 0.8
     cta_label: ATLAS-CONF-2018-041
     cta_url: 'https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2018-041/'
   - title: Soft-drop
