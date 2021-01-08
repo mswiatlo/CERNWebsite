@@ -82,4 +82,4 @@ I am a scientist at TRIUMF, Canada's Particle Accelerator Centre. I work on the 
 
 I'm currently the convener of the Jet/E<sub>T</sub><sup>Miss</sup> group in ATLAS, and I coordinate searches for pairs of Higgs and SUSY particles decaying to many b-jets. In the past, I've also worked on searches for milli-charged particles at the LHC, and measurements of QCD using novel jet substructure techniques.
 
-I'm always looking for new undergraduate and graduate students, postdocs, and collaborations, so please drop me a line if you'd like to work together! Open positions will depend on funding and on the current project needs.
+I'm always looking for new undergraduate and graduate students, postdocs, and collaborations, so please drop me a line if you'd like to work together! Open positions will depend on funding and current project needs.

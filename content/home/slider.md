@@ -37,10 +37,10 @@ item:
 #     cta_url: 'https://example.org'
 #     cta_icon_pack: fas
 #     cta_icon: graduation-cap
-  - title: 'Projects, Present and Past'
-    content: 'A list of ongoing and previous projects I have contributed to'
-    overlay_color: = ''
-    overlay_img: 'projects2.png'
+#   - title: 'Projects, Present and Past'
+#     content: 'A list of ongoing and previous projects I have contributed to'
+#     overlay_color: = ''
+#     overlay_img: 'projects2.png'
   - title: 'Deep Learning for Calorimeter Reconstruction'
     content: Improving pion and jet reconstruction with image recognition
     align: center
