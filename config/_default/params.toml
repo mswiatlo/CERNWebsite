@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mswiatlowski@triumf.ca"
+email = ""
 phone = ""
 
 # Address
@@ -114,6 +114,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "envelope", icon_pack = "fas", name = "Email me", link='mailto:mswiatlowski@triumf.ca'},
   {icon = "skype", icon_pack = "fab", name = "Message me on Skype", link = "skype:maxinion@chat"},
   {icon = "conversation", icon_pack = "ai", name = "Message me on CERN Mattermost", link = "https://mattermost.web.cern.ch/atlas/messages/@mswiatlo"}
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
