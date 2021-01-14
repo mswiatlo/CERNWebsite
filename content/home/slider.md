@@ -81,6 +81,14 @@ item:
     overlay_filter: 0.8
     cta_label: ATLAS-CONF-2018-041
     cta_url: 'https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2018-041/'
+  - title: The ATLAS FastTracKer
+    content: 'Building and commissioning a hardware track trigger for the ATLAS experiment'
+    align: center
+    overlay_color: '#333'
+    overlay_img: 'ftk.png'
+    overlay_filter: 0.6
+    cta_label: 'arXiv:2101.05078'
+    cta_url: 'https://arxiv.org/abs/2101.05078'
   - title: Soft-drop
     content: 'Measuring calculable properties of quantum chromodynamics with jet substructure'
     align: center
