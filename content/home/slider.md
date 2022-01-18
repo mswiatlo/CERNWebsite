@@ -47,7 +47,7 @@ item:
     overlay_color: '#555'
     overlay_img: 'hh4b_res.png'
     overlay_filter: 0.6
-    cta_label: ATL-PHS-PUB-2021-035
+    cta_label: ATL-PHS-CONF-2021-035
     cta_url: 'https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2021-035/'
   - title: 'Deep Learning for Calorimeter Reconstruction'
     content: Improving pion and jet reconstruction with image recognition
@@ -63,7 +63,7 @@ item:
     overlay_color: '#333'
     overlay_img: 'jets.png'
     overlay_filter: 0.6
-    cta_label: arXiv:2007.02645
+    cta_label: Eur. Phys. J. C 81 (2021) 689
     cta_url: 'https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/JETM-2018-05/'
   - title: VBF HH→4b
     content: 'Searches for resonant and non-resonant di-Higgs VBF production decaying to 4 b-jets'
@@ -95,7 +95,7 @@ item:
     overlay_color: '#333'
     overlay_img: 'ftk.png'
     overlay_filter: 0.6
-    cta_label: 'arXiv:2101.05078'
+    cta_label: 'JINST 16 (2021) P07006'
     cta_url: 'https://arxiv.org/abs/2101.05078'
   - title: Soft-drop
     content: 'Measuring calculable properties of quantum chromodynamics with jet substructure'
