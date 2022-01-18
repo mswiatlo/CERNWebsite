@@ -47,7 +47,7 @@ item:
     overlay_color: '#555'
     overlay_img: 'hh4b_res.png'
     overlay_filter: 0.6
-    cta_label: ATL-PHS-CONF-2021-035
+    cta_label: ATL-PHYS-CONF-2021-035
     cta_url: 'https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2021-035/'
   - title: 'Deep Learning for Calorimeter Reconstruction'
     content: Improving pion and jet reconstruction with image recognition
@@ -55,7 +55,7 @@ item:
     overlay_color: '#555'
     overlay_img: 'ml4p.png'
     overlay_filter: 0.6
-    cta_label: ATL-PHS-PUB-2020-018
+    cta_label: ATL-PHYS-PUB-2020-018
     cta_url: 'https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PUBNOTES/ATL-PHYS-PUB-2020-018/'
   - title: Jet Reconstruction
     content: 'ATLAS jet reconstruction and calibration in run 2'
