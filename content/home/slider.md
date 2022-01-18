@@ -41,6 +41,14 @@ item:
 #     content: 'A list of ongoing and previous projects I have contributed to'
 #     overlay_color: = ''
 #     overlay_img: 'projects2.png'
+  - title: Resonant HH→4b
+    content: Searches for resonant di-Higgs production decaying to 4 b-jets, featuring novel neural network background estimates
+    align: center
+    overlay_color: '#555'
+    overlay_img: 'hh4b_res.png'
+    overlay_filter: 0.6
+    cta_label: ATL-PHS-PUB-2021-035
+    cta_url: 'https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2021-035/'
   - title: 'Deep Learning for Calorimeter Reconstruction'
     content: Improving pion and jet reconstruction with image recognition
     align: center
@@ -57,8 +65,8 @@ item:
     overlay_filter: 0.6
     cta_label: arXiv:2007.02645
     cta_url: 'https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/JETM-2018-05/'
-  - title: HH→4b
-    content: 'Searches for resonant and non-resonant di-Higgs production decaying to 4 b-jets'
+  - title: VBF HH→4b
+    content: 'Searches for resonant and non-resonant di-Higgs VBF production decaying to 4 b-jets'
     align: center
     overlay_color: '#333'
     overlay_img: 'hh4b_vbf.png'

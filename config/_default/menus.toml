@@ -39,6 +39,11 @@
   url = "media/swiatlow_cv.pdf"
   weight = 70
 
+[[main]]
+  name = "Publications"
+  url = "media/swiatlow_publications.pdf"
+  weight = 80
+
 # [[main]]
 #   name = "Jet/E<sub>T</sub><sup>Miss</sup> indicomb"
 #   url = "misc/JetMetIndicomb.html"
